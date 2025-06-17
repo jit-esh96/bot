@@ -1,0 +1,6 @@
+{
+  "host": "your.minecraftserver.com",
+  "port": 25565,
+  "username": "BotName",
+  "auth": "offline"
+}
